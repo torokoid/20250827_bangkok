@@ -191,7 +191,7 @@ p.note { display: none; }
 <a href="20250827_016.JPG" target="_blank"><img src="20250827_016.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250827_017.JPG" target="_blank"><img src="20250827_017.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">Japan QUALITY を誇るシール</span></h2>
+<h2><span class="yellow">東南アジア圏での日本製品への信頼性を示す、Japan QUALITY を誇るシール</span></h2>
 <a href="20250827_018.JPG" target="_blank"><img src="20250827_018.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">床用のタイル板がかなりのスペースを占めています</span></h2>
