@@ -181,6 +181,8 @@ p.note { display: none; }
 <h2><span class="yellow">突然降り出した雨で、帰宅途中の女子高生もびしょ濡れ</span></h2>
 <a href="20250827_011.JPG" target="_blank"><img src="20250827_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250827_012.JPG" target="_blank"><img src="20250827_012.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">小学校の通学用車両、3台で車列・・・経営は日系の会社</span></h2>
 <a href="20250827_013.JPG" target="_blank"><img src="20250827_013.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">バンコク郊外エリアの大型雑貨店を訪れました</span></h2>
