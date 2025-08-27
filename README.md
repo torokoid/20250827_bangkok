@@ -206,7 +206,7 @@ p.note { display: none; }
 <a href="20250827_021.JPG" target="_blank"><img src="20250827_021.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250827_022.JPG" target="_blank"><img src="20250827_022.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">２フロアで、下側のエスカレータのみキャリアカー対応</span></h2>
+<h2><span class="yellow">２フロアで、下り側のエスカレータのみキャリアカー対応</span></h2>
 <a href="20250827_023.JPG" target="_blank"><img src="20250827_023.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">隣接する巨大スーパーでドリアンを購入</span></h2>
